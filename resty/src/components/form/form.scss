@@ -1,0 +1,24 @@
+.main {
+    position: absolute;
+    top:130px;
+    padding-left: 40%;
+    width: 100%;
+  }
+ 
+  .main #output{
+    background-color:#9e9e9f57 ;
+    width: 95%;
+    height: 350px;
+    margin-left: -500px;
+  }
+  
+  #url{
+    display: inline;
+    margin-right: 5px;
+    
+  }
+
+  .main #output p{
+    margin-left: 50px;
+    font-size: 1.5rem;
+  }
