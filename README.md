@@ -4,7 +4,10 @@
 
 ## Authoer : Ahmed Abu Samaan
 ## PR :-
-[PR](https://github.com/AhmedAbuSamaan-401-advanced-javascript/resty/pull/7)
+[PR](https://github.com/AhmedAbuSamaan-401-advanced-javascript/restyNew/pull/8)
+
+## Deployed link :
+[Deployed](https://wizardly-elion-a1ba8f.netlify.app/)
 
 ## Installion
 
