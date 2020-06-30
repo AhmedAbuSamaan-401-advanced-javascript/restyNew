@@ -4,7 +4,7 @@
 
 ## Authoer : Ahmed Abu Samaan
 ## PR :-
-[PR](https://github.com/AhmedAbuSamaan-401-advanced-javascript/resty/pull/3)
+[PR](https://github.com/AhmedAbuSamaan-401-advanced-javascript/resty/pull/7)
 
 ## Installion
 
