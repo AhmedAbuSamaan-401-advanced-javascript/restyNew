@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "src/index.js",
   "private": true,
-  "homepage": "https:/AhmedAbuSamaan-401-advanced-javascript/restyNew/tree/master/resty",
+  "homepage": "https:/AhmedAbuSamaan.github.io/restyNew/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
